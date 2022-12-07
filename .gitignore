@@ -1,0 +1,17 @@
+*.jpg
+.gradle
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+out/
+
+### Android Studio ###
+local.properties
+captures/
+.externalNativeBuild
+.cxx
